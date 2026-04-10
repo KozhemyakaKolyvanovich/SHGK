@@ -1,0 +1,2 @@
+[tool.poetry]  name = "my-project"  version = "0.1.0"  description = ""  authors = ["Your Name <email@example.com>"] 
+[tool.black]  line-length = 88  target-version = ['py310'] 
