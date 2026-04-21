@@ -1,3 +1,5 @@
+<img width="498" height="398" alt="image" src="https://github.com/user-attachments/assets/ba2fc6a5-341c-4ff4-85eb-3b9dbf6c8959" />
+
 markdown
 ## Разработка
 
